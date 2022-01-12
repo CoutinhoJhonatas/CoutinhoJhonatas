@@ -2,7 +2,7 @@
 
 - 🎉 Tenho 21 anos.
 - 📚 Estudante de Engenharia da Computação.
-- 💻 Em busca do primeiro estágio em programação.
+- 💻 Starter em desenvolvimento Java na empresa GFT Brasil.
 - 🎮 Apaixonado pela tecnologia.
 
 <div style="display: inline_block"><br>
