@@ -2,7 +2,7 @@
 
 - 🎉 Tenho 22 anos.
 - 📚 Estudante de Engenharia da Computação.
-- 💻 Starter em desenvolvimento Java na empresa GFT Brasil.
+- 💻 Desenvolvedor Java na empresa GFT Brasil.
 - 🎮 Apaixonado pela tecnologia.
 
 <div>
