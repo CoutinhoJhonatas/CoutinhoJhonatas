@@ -1,25 +1,81 @@
-### Olá! Eu sou o Jhonatas Coutinho 👋
+# Hi, I'm Jhonatas Coutinho 👋
 
-- 🎉 Tenho 24 anos.
-- 📚 Estudante de Engenharia da Computação.
-- 💻 Desenvolvedor Java.
-- 🎮 Apaixonado pela tecnologia.
+### Backend Developer focused on Java, Spring Boot, and real-world solutions — currently expanding into fullstack development and preparing for global opportunities.
 
-<div>
-  <a href="https://github.com/CoutinhoJhonatas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoutinhoJhonatas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoutinhoJhonatas&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+I’m a backend developer passionate about building useful systems, improving technical depth, and creating software that solves real problems.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhow-J" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Jhow-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhow-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+My journey started with Java backend development, REST APIs, and business-focused applications. Now, I’m also expanding into modern fullstack technologies like TypeScript and React, while strengthening my foundations in software architecture, SQL, cloud, and system design.
 
-##
+---
 
-<div>
-  <a href="https://www.linkedin.com/in/jhonatas-coutinho-3364921a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jhonatas.cjw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## About Me
+
+- 💼 Backend developer with experience in **Java**, **Spring Boot**, **REST APIs**, and **microservices**
+- 🧠 Focused on building systems that generate real value, not just isolated features
+- 📚 Strong believer in **learning by building**
+- 🌍 Preparing for **international opportunities** and global collaboration
+- ☁️ Interested in **backend engineering**, **architecture**, **cloud**, and **product-driven development**
+
+---
+
+## Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- REST APIs
+- Maven
+
+### Database
+- PostgreSQL
+- SQL
+- H2
+
+### Frontend
+- TypeScript
+- JavaScript
+- React
+- Vite
+- HTML
+- CSS
+
+### Tools
+- Git & GitHub
+- Docker
+- Postman
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## What I'm Focused On Right Now
+
+- deepening my backend knowledge with **Java** and **Spring Boot**
+- improving my understanding of **software architecture** and **system design**
+- building fullstack projects that connect backend, frontend, and real-world use cases
+- strengthening my skills in **TypeScript** and **React**
+- improving my **technical English** for international work
+
+---
+
+## Current Direction
+
+I’m working to become a developer who combines:
+- strong backend fundamentals
+- modern fullstack versatility
+- product thinking
+- clear communication
+- the ability to build meaningful software in global environments
+
+---
+
+## Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/jhonatas-coutinho-3364921a2
+- 📧 Email: jhonatas.cjw@outlook.com
+
+---
+
+> I’m not just learning technologies — I’m building the ability to create useful software that matters.
